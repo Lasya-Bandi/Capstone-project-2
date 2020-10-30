@@ -17,10 +17,5 @@ CMD exec gunicorn demo.wsgi:application --bind 0.0.0.0:8000 --workers 3
 FROM jenkins:1.596
  
 
-	
-# FROM jenkins:1.596
-# USER root
-
-# LABEL maintainer=”lasyabandi@gmail.com”
  
 

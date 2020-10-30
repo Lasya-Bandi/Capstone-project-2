@@ -1,0 +1,6 @@
+# requirements.txt
+
+Django==2.1.0
+gunicorn==19.6.0
+mysqlclient==2.0.1
+mysql-connector-python
